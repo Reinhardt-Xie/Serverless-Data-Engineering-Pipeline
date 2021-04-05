@@ -10,8 +10,8 @@ from botocore.exceptions import ClientError
 
 
 #S3 BUCKET
-REGION = "us-east-2"
-BUCKET = "faangsentiment-jx95"
+REGION = "us-east-1"
+BUCKET = "sentiment-zx"
 
 #SETUP LOGGING
 import logging
