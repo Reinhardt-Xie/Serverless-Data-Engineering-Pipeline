@@ -1,7 +1,7 @@
 # Serverless-Data-Engineering-Pipeline
 
 * This is a replication of the [Serverless Data Engineering Pipeline by Noah](https://github.com/noahgift/awslambda)
-* This pipeline utilized two lambda functions on AWS to load the data from DynamoDB.
+* This pipeline utilized two lambda functions called producer and consumer on AWS to load the data from DynamoDB.
 * This pipeline carried out sentiment analysis on the corresponding wikipedia page. 
 * The results were written into a S3 bucket.
 
